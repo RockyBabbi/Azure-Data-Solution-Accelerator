@@ -408,13 +408,13 @@ typing-extensions = ">=4.0.1"
 
 [[package]]
 name = "azure-ai-ml"
-version = "1.20.0"
+version = "1.22.4"
 description = "Microsoft Azure Machine Learning Client Library for Python"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "azure-ai-ml-1.20.0.tar.gz", hash = "sha256:6432a0da1b7250cb0db5a1c33202e0419935e19ea32d4c2b3220705f8f1d4101"},
-    {file = "azure_ai_ml-1.20.0-py3-none-any.whl", hash = "sha256:c7eb3c5ccf82a6ee94403c3e5060763decd38cf03ff2620a4a6577526e605104"},
+    {file = "azure_ai_ml-1.22.4-py3-none-any.whl", hash = "sha256:f42d0016763ac39e9dccd5599e530fc906a6f1e646d75c337dd3136e67661ef6"},
+    {file = "azure_ai_ml-1.22.4.tar.gz", hash = "sha256:09b5dee0bcb709dc8941d11ccc54554c1bcb54b9f60c9e39815c3d74b4cc244c"},
 ]
 
 [package.dependencies]
@@ -7111,4 +7111,4 @@ test = ["big-O", "importlib-resources", "jaraco.functools", "jaraco.itertools", 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "35cde417db61894c73102f723b69c8b1f2f861292a4f485f68ed9b72efcb76c0"
+content-hash = "375f354118090500daff969b818b2d36d62109c0f65463346eee23c06ea6ff4c"
